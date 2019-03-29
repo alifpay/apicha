@@ -1,0 +1,13 @@
+{
+    "service": {
+      "name": "gate-api",
+      "addr": ":3081"
+    },
+    "database": {
+      "host": "localhost",
+      "user": "postgres",
+      "pass": "postgres",
+      "dbName": "alifdb"
+    }
+}
+  
